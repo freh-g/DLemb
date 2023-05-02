@@ -8,7 +8,7 @@ DLemb is an algorithm that produces embeddings out of a knowledge graph. The kno
 
 An example is available in data/kg_edgelist.csv. This knowledge graph is composed of 41k nodes of 4 types (functions, phenotype, drug and protein) and ~60 types of relationships.
 
-KnoWalk need several dependencies, an environment named KnoWalk can be created by running
+DLemb need several dependencies, an environment named DLemb can be created by running
 
 ```
 conda env create -f DLemb.yml
