@@ -10,8 +10,8 @@ authors:
 - family-names: "Oliva"
   given-names: "Baldomero"
   orcid: "https://orcid.org/0000-0003-0702-0250"
-title: "My Research Software"
+title: "DLemb"
 version: 1.0.0
-doi: https://doi.org/10.5281/zenodo.8233704
+doi: 10.5281/zenodo.8233704
 date-released: 2023-08-10
 url: "https://github.com/freh-g/DLemb""
