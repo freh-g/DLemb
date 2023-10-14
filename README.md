@@ -26,7 +26,7 @@ The algorithm consists of a shallow neural network implemented in Keras, it is c
 The customizable flags of DLemb can be listed by running: 
 
 ```
-python3 DLemb.py -h
+./DLemb.py -h
 ```
 DLemb automatically runs on GPU is available. A typical call for DLemb is as follows:
 
